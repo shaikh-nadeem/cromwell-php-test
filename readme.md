@@ -496,6 +496,3 @@ For issues, questions, or suggestions:
 - 📚 Full API documentation
 - ✅ Form validation with real-time feedback
 
----
-
-**Made with ❤️ in PHP**
